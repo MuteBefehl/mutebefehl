@@ -14,7 +14,8 @@
 ### Contact 
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/224270178836283392)](https://discord.com/users/224270178836283392)
-[![Spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/224270178836283392)](https://dev.discordprofiles.me/openspotify/224270178836283392)
-![VISITS](https://komarev.com/ghpvc/?username=mutebefehl&label=Profile%20views&color=0e75b6&style=flat)
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/224270178836283392?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/224270178836283392)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/224270178836283392)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/224270178836283392)](https://dev.discordprofiles.me/openspotify/224270178836283392)
 

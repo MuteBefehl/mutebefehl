@@ -10,11 +10,10 @@ My name is Henning and I am 19 years old. I am currently working towards becomin
 [![QT](https://skillicons.dev/icons?i=qt)](https://www.qt.io/product)
 
 ### Socials
-[![Discord](https://skillicons.dev/icons?i=discord)](https://code.visualstudio.com/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://code.visualstudio.com/)	
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://code.visualstudio.com/)
-[![Mastodon](https://skillicons.dev/icons?i=mastodon)](https://code.visualstudio.com/)
-[![VSCODE](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/224270178836283392)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mutebefehl/)	
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MuteBefehl)
+[![Mastodon](https://skillicons.dev/icons?i=mastodon)](https://social.anoxinon.de/@mutebefehl)
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/224270178836283392?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/224270178836283392)

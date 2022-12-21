@@ -15,5 +15,6 @@
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/224270178836283392)](https://discord.com/users/224270178836283392)
+[![Spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/224270178836283392)](https://dev.discordprofiles.me/openspotify/224270178836283392)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mutebefehl&label=Profile%20views&color=0e75b6&style=flat" alt="mutebefehl"/>
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/224270178836283392)](https://dev.discordprofiles.me/openspotify/224270178836283392)
+

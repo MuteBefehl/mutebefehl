@@ -5,7 +5,7 @@
 
 
 
-### IDEs 🛠 
+### IDE 🛠 
 [![VSCODE](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
 [![QT](https://skillicons.dev/icons?i=qt)](https://www.qt.io/product)

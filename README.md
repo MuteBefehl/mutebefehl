@@ -1,7 +1,7 @@
 ### Hey! :>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,cloudflare,java,cpp,python,html,css,docker&perline=10)](https://mutebefehl.de)
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,aws,azure,netlify,vercel,java,cpp,python,html,css,docker,mysql,mongodb&perline=10)](https://mutebefehl.de)
 
 
 

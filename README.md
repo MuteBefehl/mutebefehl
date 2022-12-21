@@ -9,7 +9,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![WTerminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) 
-![QT](https://skillicons.dev/icons?i=qt)
+![QT](https://skillicons.dev/icons?i=qt](https://www.qt.io/product)
 
 
 ### Contact 

@@ -11,9 +11,6 @@
 [![QT](https://skillicons.dev/icons?i=qt)](https://www.qt.io/product)
 
 
-### Contact 
-
-
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/224270178836283392?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/224270178836283392)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/224270178836283392)

@@ -2,7 +2,7 @@
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,aws,azure,netlify,vercel,java,cpp,python,html,css,docker,mysql,mongodb&perline=10)](https://mutebefehl.de)
-
+My name is Henning and I am 19 years old. I am currently working towards becoming a computer science technician, with a focus on system integration. In my free time, I enjoy working with servers and exploring new technologies.
 
 
 ### IDE 🛠 

@@ -1,7 +1,4 @@
-### HEEEYYY!👋
-
-Check my socials here
-=> https://bio.link/mutebefehl
+### Hey! :>
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,cloudflare,java,cpp,python,html,css,docker&perline=10)](https://mutebefehl.de)

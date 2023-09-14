@@ -3,7 +3,7 @@ My name is Henning, and I'm 19 years old. Currently, I'm working towards becomin
 
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,workers,aws,azure,netlify,vercel,java,cpp,python,html,css,php,docker,mysql,mongodb&perline=10)](https://mutebefehl.de)
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,workers,aws,azure,netlify,vercel,java,cpp,python,html,css,php,docker,mysql,mongodb,grafana&perline=10)](https://mutebefehl.de)
 
 ### IDE 🛠 
 [![VSCODE](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
@@ -13,7 +13,6 @@ My name is Henning, and I'm 19 years old. Currently, I'm working towards becomin
 ### Socials
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/224270178836283392)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mutebefehl/)	
-
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MuteBefehl)
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/224270178836283392?simple=true)

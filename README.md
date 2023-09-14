@@ -3,7 +3,7 @@ My name is Henning, and I'm 19 years old. Currently, I'm working towards becomin
 
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,workers,aws,azure,netlify,vercel,java,cpp,python,html,css,php,docker,mysql,mongodb,grafana&perline=10)](https://mutebefehl.de)
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,workers,aws,azure,netlify,vercel,docker,java,cpp,python,html,css,php,mysql,mongodb,grafana&perline=10)](https://mutebefehl.de)
 
 ### IDE 🛠 
 [![VSCODE](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)

@@ -1,5 +1,5 @@
 ### Hey! :>
-My name is Henning, and I'm 19 years old. Currently, I'm working towards becoming a Computer Science Technician, with a specialization in system integration. During my free time, I take pleasure in working with servers and exploring new technologies.
+My name is Henning, and I'm 20 years old. Currently, I'm working towards becoming a Computer Science Technician, with a specialization in system integration. During my free time, I take pleasure in working with servers and exploring new technologies.
 
 
 ### Skills

@@ -15,8 +15,9 @@ My name is Henning, and I'm 20 years old. Currently, I'm working towards becomin
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mutebefehl/)	
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MuteBefehl)
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/224270178836283392?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/224270178836283392)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/224270178836283392)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/224270178836283392)](https://dev.discordprofiles.me/openspotify/224270178836283392)
+![status](https://api.statusbadges.me/badge/status/224270178836283392?simple=true)
+![playing](https://api.statusbadges.me/badge/playing/224270178836283392)
+![vscode](https://api.statusbadges.me/badge/vscode/224270178836283392)
+![intellij](https://api.statusbadges.me/badge/intellij/224270178836283392)
+[![spotify](https://api.statusbadges.me/badge/spotify/224270178836283392)](https://api.statusbadges.me/openspotify/224270178836283392)
 

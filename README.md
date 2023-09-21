@@ -16,8 +16,8 @@ My name is Henning, and I'm 20 years old. Currently, I'm working towards becomin
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MuteBefehl)
 
 ![status](https://api.statusbadges.me/badge/status/224270178836283392?simple=true)
+[![spotify](https://api.statusbadges.me/badge/spotify/224270178836283392)](https://api.statusbadges.me/openspotify/224270178836283392)
 ![playing](https://api.statusbadges.me/badge/playing/224270178836283392)
 ![vscode](https://api.statusbadges.me/badge/vscode/224270178836283392)
 ![intellij](https://api.statusbadges.me/badge/intellij/224270178836283392)
-[![spotify](https://api.statusbadges.me/badge/spotify/224270178836283392)](https://api.statusbadges.me/openspotify/224270178836283392)
 

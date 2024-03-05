@@ -11,7 +11,7 @@ My name is Henning, and I'm 20 years old. Currently, I'm working towards becomin
 [![QT](https://skillicons.dev/icons?i=qt)](https://www.qt.io/product)
 
 ### Socials
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/invite/3P4CZCmX)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord/users/224270178836283392)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mutebefehl/)	
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MuteBefehl)
 

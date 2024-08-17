@@ -1,7 +1,7 @@
 ### Hey! :>
 My name is Henning, and I am 20 years of age. I am currently pursuing a career as a Computer Science Technician, with a specialization in system integration. In my leisure time, I enjoy working with servers and exploring new technologies.
 
-I am currently engaged in the development of DuoBW, a statistical modification for Hypixel Bedwars. I will provide further details in the future.
+I am currently engaged in the development of [DuoBW](https://duobw.mutebefehl.de), a statistical modification for Hypixel Bedwars. I will provide further details in the future.
 
 ### Skills / Learning currently
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,workers,aws,azure,netlify,vercel,docker,java,cpp,python,html,css,php,mysql,mongodb,grafana&perline=10)](https://mutebefehl.de)

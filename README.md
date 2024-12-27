@@ -1,7 +1,7 @@
 ### Hey! :>
-My name is Henning, and I am 21 years of age. I am currently pursuing a career as a Computer Science Technician, with a specialization in system integration. In my leisure time, I enjoy working with servers and exploring new technologies.
+My name is Henning, and I am 21 years old. I am training to become a Computer Science Technician with a focus on system integration. In my free time, I like to work with servers and try out new technologies.
 
-I am currently engaged in the development of [DuoBW](https://duobw.mutebefehl.de), a statistical modification for Hypixel Bedwars. I will provide further details in the future.
+I am responsible for the IT infrastructure and web services of a local organization in my hometown. 
 
 ### Skills / Learning currently
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,workers,aws,azure,netlify,vercel,docker,java,cpp,python,html,css,php,mysql,mongodb,grafana&perline=10)](https://mutebefehl.de)

@@ -16,5 +16,6 @@ I am responsible for the IT infrastructure and web services of a local organizat
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mutebefehl/)	
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MuteBefehl)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/224270178836283392)](https://discord.com/users/224270178836283392)
+[![Discord Presence](https://lanyard.cnrad.dev/api/224270178836283392?hideTimestamp=true)](https://discord.com/users/224270178836283392)
+
 
